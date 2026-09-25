@@ -51,6 +51,23 @@ print(final_phns)
 -   `correction/` — training code for the phoneme→phone Corrector
     
 -   `notebooks/` — end-to-end usage examples and demos
+
+## Citation
+
+If you use HuPER, please cite:
+
+```bibtex
+@inproceedings{guo2026huper,
+  author    = {Guo, Chenxu and Lian, Jiachen and Liu, Yisi and
+               Huang, Baihe and Narayanan, Shriyaa and Wu, Bixing and
+               Ezzes, Zoe and Vonk, Jet and Miller, Zachary and
+               Cho, Cheol Jun and Gorno-Tempini, Maria and
+               Anumanchipalli, Gopala},
+  title     = {{HuPER}: A Human-Inspired Framework for Phonetic Perception},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year      = {2026}
+}
+```
     
 
 ---
