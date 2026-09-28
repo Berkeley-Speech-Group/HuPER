@@ -1,5 +1,10 @@
 # HuPER: A Human-Inspired Framework for Phonetic Perception
 
+[![arXiv](https://img.shields.io/badge/arXiv-2602.01634-b31b1b.svg)](https://arxiv.org/pdf/2602.01634)
+[![🤗 Model](https://img.shields.io/badge/🤗%20Model-huper_recognizer-yellow.svg)](https://huggingface.co/huper29/huper_recognizer)
+[![🤗 Model](https://img.shields.io/badge/🤗%20Model-huper_corrector-yellow.svg)](https://huggingface.co/huper29/huper_corrector)
+[![🤗 Dataset](https://img.shields.io/badge/🤗%20Dataset-huper--clean100--proxyphones-yellow.svg)](https://huggingface.co/datasets/huper29/huper-clean100-proxyphones)
+
 ## Quickstart
 
 ### 1) Clone this repo
